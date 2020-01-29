@@ -5,8 +5,8 @@
 I created this repo for my own reference. It contains all the design patterns that enable me to work faster. This repo is not completed yet. If you wish to contribute, please send a PR to me and i will merge it to master. Thanks.
 
 I have attached my deck in this repo too. 
-1. [Design pattern power point](Design Pattern.pptx)
-2. [Design pattern cheatsheet](Design Patterns_CheatSheet.pdf)
+1. [Design pattern power point](Design-Pattern.pptx)
+2. [Design pattern cheatsheet](Design-Patterns_CheatSheet.pdf) by DZone
 
 ## Installation
 
