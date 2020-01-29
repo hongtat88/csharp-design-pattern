@@ -6,5 +6,5 @@ I created this repo for my own reference. It contains all the design patterns th
 
 ## Installation
 
-> If you don't have visual studio, you can download from the link here. https://visualstudio.microsoft.com/
-> Open the sln file using visual studio and run it.
+1. If you don't have visual studio, you can download from the link here. https://visualstudio.microsoft.com/
+2. Open the sln file using visual studio and run it.
